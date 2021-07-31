@@ -9,6 +9,9 @@ export const timeLine = () => {
       <a class="icon-user" href="">Perfil</a>
       <a class="icon-exit" href="">Cerra sesión</a>
   
+      <div id="container-posts"></div>
+    </div>
+
   </div>
     <div class="shared-today">
       <input id="post" type="text" placeholder="Que te gustaria compartir hoy?">
